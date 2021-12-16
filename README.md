@@ -1,4 +1,4 @@
-# Alura-Statistical-Tests
+# Movies Data Analysis
 Codes made during the Alura course **Introduction to Statistical Tests**.
 
 Here, we can find statistical analysis about two different Movies Data sources:
